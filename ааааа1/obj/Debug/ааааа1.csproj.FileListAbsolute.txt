@@ -1,0 +1,8 @@
+D:\belstu\2_class\ооп\ааааа1\bin\Debug\ааааа1.exe.config
+D:\belstu\2_class\ооп\ааааа1\bin\Debug\ааааа1.exe
+D:\belstu\2_class\ооп\ааааа1\bin\Debug\ааааа1.pdb
+D:\belstu\2_class\ооп\ааааа1\obj\Debug\ааааа1.csproj.AssemblyReference.cache
+D:\belstu\2_class\ооп\ааааа1\obj\Debug\ааааа1.csproj.SuggestedBindingRedirects.cache
+D:\belstu\2_class\ооп\ааааа1\obj\Debug\ааааа1.csproj.CoreCompileInputs.cache
+D:\belstu\2_class\ооп\ааааа1\obj\Debug\ааааа1.exe
+D:\belstu\2_class\ооп\ааааа1\obj\Debug\ааааа1.pdb
